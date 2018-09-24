@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Ejercicio 3 Examen Unidad 1\Ejercicio 3 Examen Unidad 1\bin\Debug\Ejercicio 3 Examen Unidad 1.exe.config
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Ejercicio 3 Examen Unidad 1\Ejercicio 3 Examen Unidad 1\bin\Debug\Ejercicio 3 Examen Unidad 1.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Ejercicio 3 Examen Unidad 1\Ejercicio 3 Examen Unidad 1\bin\Debug\Ejercicio 3 Examen Unidad 1.pdb
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Ejercicio 3 Examen Unidad 1\Ejercicio 3 Examen Unidad 1\obj\Debug\Ejercicio 3 Examen Unidad 1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Ejercicio 3 Examen Unidad 1\Ejercicio 3 Examen Unidad 1\obj\Debug\Ejercicio 3 Examen Unidad 1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Ejercicio 3 Examen Unidad 1\Ejercicio 3 Examen Unidad 1\obj\Debug\Ejercicio 3 Examen Unidad 1.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Ejercicio 3 Examen Unidad 1\Ejercicio 3 Examen Unidad 1\obj\Debug\Ejercicio 3 Examen Unidad 1.pdb
