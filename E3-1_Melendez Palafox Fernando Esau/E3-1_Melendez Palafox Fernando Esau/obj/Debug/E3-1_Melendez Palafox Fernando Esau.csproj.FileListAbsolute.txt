@@ -1,0 +1,7 @@
+c:\users\lenovo\source\repos\E3-1_Melendez Palafox Fernando Esau\E3-1_Melendez Palafox Fernando Esau\bin\Debug\E3-1_Melendez Palafox Fernando Esau.exe.config
+c:\users\lenovo\source\repos\E3-1_Melendez Palafox Fernando Esau\E3-1_Melendez Palafox Fernando Esau\bin\Debug\E3-1_Melendez Palafox Fernando Esau.exe
+c:\users\lenovo\source\repos\E3-1_Melendez Palafox Fernando Esau\E3-1_Melendez Palafox Fernando Esau\bin\Debug\E3-1_Melendez Palafox Fernando Esau.pdb
+c:\users\lenovo\source\repos\E3-1_Melendez Palafox Fernando Esau\E3-1_Melendez Palafox Fernando Esau\obj\Debug\E3-1_Melendez Palafox Fernando Esau.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\E3-1_Melendez Palafox Fernando Esau\E3-1_Melendez Palafox Fernando Esau\obj\Debug\E3-1_Melendez Palafox Fernando Esau.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\E3-1_Melendez Palafox Fernando Esau\E3-1_Melendez Palafox Fernando Esau\obj\Debug\E3-1_Melendez Palafox Fernando Esau.exe
+c:\users\lenovo\source\repos\E3-1_Melendez Palafox Fernando Esau\E3-1_Melendez Palafox Fernando Esau\obj\Debug\E3-1_Melendez Palafox Fernando Esau.pdb
