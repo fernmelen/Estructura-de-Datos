@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Tercera unidad\E4-1_InvestigacionDeArbol\E4-1_InvestigacionDeArbol\bin\Debug\E4-1_InvestigacionDeArbol.exe.config
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Tercera unidad\E4-1_InvestigacionDeArbol\E4-1_InvestigacionDeArbol\bin\Debug\E4-1_InvestigacionDeArbol.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Tercera unidad\E4-1_InvestigacionDeArbol\E4-1_InvestigacionDeArbol\bin\Debug\E4-1_InvestigacionDeArbol.pdb
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Tercera unidad\E4-1_InvestigacionDeArbol\E4-1_InvestigacionDeArbol\obj\Debug\E4-1_InvestigacionDeArbol.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Tercera unidad\E4-1_InvestigacionDeArbol\E4-1_InvestigacionDeArbol\obj\Debug\E4-1_InvestigacionDeArbol.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Tercera unidad\E4-1_InvestigacionDeArbol\E4-1_InvestigacionDeArbol\obj\Debug\E4-1_InvestigacionDeArbol.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Tercera unidad\E4-1_InvestigacionDeArbol\E4-1_InvestigacionDeArbol\obj\Debug\E4-1_InvestigacionDeArbol.pdb
