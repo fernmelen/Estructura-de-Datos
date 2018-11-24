@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Cuarta Unidad\Examen\E4_Melendez Palafox FErnando Esau\E4_Melendez Palafox FErnando Esau\bin\Debug\E4_Melendez Palafox FErnando Esau.exe.config
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Cuarta Unidad\Examen\E4_Melendez Palafox FErnando Esau\E4_Melendez Palafox FErnando Esau\bin\Debug\E4_Melendez Palafox FErnando Esau.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Cuarta Unidad\Examen\E4_Melendez Palafox FErnando Esau\E4_Melendez Palafox FErnando Esau\bin\Debug\E4_Melendez Palafox FErnando Esau.pdb
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Cuarta Unidad\Examen\E4_Melendez Palafox FErnando Esau\E4_Melendez Palafox FErnando Esau\obj\Debug\E4_Melendez Palafox FErnando Esau.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Cuarta Unidad\Examen\E4_Melendez Palafox FErnando Esau\E4_Melendez Palafox FErnando Esau\obj\Debug\E4_Melendez Palafox FErnando Esau.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Cuarta Unidad\Examen\E4_Melendez Palafox FErnando Esau\E4_Melendez Palafox FErnando Esau\obj\Debug\E4_Melendez Palafox FErnando Esau.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Cuarta Unidad\Examen\E4_Melendez Palafox FErnando Esau\E4_Melendez Palafox FErnando Esau\obj\Debug\E4_Melendez Palafox FErnando Esau.pdb
