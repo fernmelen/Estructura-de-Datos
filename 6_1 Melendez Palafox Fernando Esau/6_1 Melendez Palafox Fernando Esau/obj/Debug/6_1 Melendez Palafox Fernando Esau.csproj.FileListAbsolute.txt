@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Sexta Unidad\6_1 Melendez Palafox Fernando Esau\6_1 Melendez Palafox Fernando Esau\bin\Debug\6_1 Melendez Palafox Fernando Esau.exe.config
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Sexta Unidad\6_1 Melendez Palafox Fernando Esau\6_1 Melendez Palafox Fernando Esau\bin\Debug\6_1 Melendez Palafox Fernando Esau.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Sexta Unidad\6_1 Melendez Palafox Fernando Esau\6_1 Melendez Palafox Fernando Esau\bin\Debug\6_1 Melendez Palafox Fernando Esau.pdb
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Sexta Unidad\6_1 Melendez Palafox Fernando Esau\6_1 Melendez Palafox Fernando Esau\obj\Debug\6_1 Melendez Palafox Fernando Esau.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Sexta Unidad\6_1 Melendez Palafox Fernando Esau\6_1 Melendez Palafox Fernando Esau\obj\Debug\6_1 Melendez Palafox Fernando Esau.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Sexta Unidad\6_1 Melendez Palafox Fernando Esau\6_1 Melendez Palafox Fernando Esau\obj\Debug\6_1 Melendez Palafox Fernando Esau.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Sexta Unidad\6_1 Melendez Palafox Fernando Esau\6_1 Melendez Palafox Fernando Esau\obj\Debug\6_1 Melendez Palafox Fernando Esau.pdb
