@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Quinta Unidad\Examen\E----5 Melendez Palafox Fernando E\E----5 Melendez Palafox Fernando E\bin\Debug\E----5 Melendez Palafox Fernando E.exe.config
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Quinta Unidad\Examen\E----5 Melendez Palafox Fernando E\E----5 Melendez Palafox Fernando E\bin\Debug\E----5 Melendez Palafox Fernando E.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Quinta Unidad\Examen\E----5 Melendez Palafox Fernando E\E----5 Melendez Palafox Fernando E\bin\Debug\E----5 Melendez Palafox Fernando E.pdb
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Quinta Unidad\Examen\E----5 Melendez Palafox Fernando E\E----5 Melendez Palafox Fernando E\obj\Debug\E----5 Melendez Palafox Fernando E.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Quinta Unidad\Examen\E----5 Melendez Palafox Fernando E\E----5 Melendez Palafox Fernando E\obj\Debug\E----5 Melendez Palafox Fernando E.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Quinta Unidad\Examen\E----5 Melendez Palafox Fernando E\E----5 Melendez Palafox Fernando E\obj\Debug\E----5 Melendez Palafox Fernando E.exe
+C:\Users\Lenovo\Desktop\Tec\Estructura de datos\Quinta Unidad\Examen\E----5 Melendez Palafox Fernando E\E----5 Melendez Palafox Fernando E\obj\Debug\E----5 Melendez Palafox Fernando E.pdb
